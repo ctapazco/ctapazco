@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenid@ a mi Github  👋
 
 <!--
 **ctapazco/ctapazco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # <img src="https://github.com/ctapazco/ctapazco/blob/main/ruffo_git1.png?raw=true" width= "200" />
-Bienvenid@ a mi Github 
-<hr>
 
 </div>
 <!--tech stack icons-->
