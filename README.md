@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # <img src="https://github.com/ctapazco/ctapazco/blob/main/ruffo_git1.png?raw=true" width= "200" />
 
+## Tecnologias 
 </div>
 <!--tech stack icons-->
 <p align="center">
@@ -23,3 +24,5 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,linux,mysql,nextjs,nodejs,react,redux,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctapazco&layout=compact&theme=dark)
